@@ -1,6 +1,7 @@
 ## Hey there 👋
 
 I'm Anson Zhang, a high-schooler who does on-and-off coding for different purposes. I mostly work on data analysis and machine learning in R and Python, but I am also getting started with web development with Nuxt.js and mod development in Minecraft. 
+If you're here about SPARK, you can learn more about it [here](https://doi.org/10.64898/2025.12.07.692871). 
 
 - 🔭 I’m currently working on [Tutorial Mod (with Kaupenjoe's Fabric 1.21.X tutorial)](https://github.com/AnsonZhang2009/Tutorial-Mod), [AP PDF Summarizer](https://github.com/CTRL-Neo-Studios/ap-pdf-summarizer), and [my portfolio](https://github.com/AnsonZhang2009/anson-portfolio). 
 - 🌱 I’m currently learning Minecraft Mod Development and Nuxt.js webs development
@@ -10,7 +11,7 @@ I'm Anson Zhang, a high-schooler who does on-and-off coding for different purpos
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like photography & chemistry!
 
-I'm familiar with:
+### I'm familiar with:
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
